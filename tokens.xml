@@ -1,0 +1,10 @@
+<tokens>
+  <token>
+    <regex>/prog/</regex>
+    <type>'init block program'</type>
+  </token>
+  <token>
+    <regex>/fimprog/</regex>
+    <type>'end block program'</type>
+  </token>
+</tokens>
